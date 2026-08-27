@@ -11,7 +11,7 @@ int main()
 
     bool hasCash = true;
 
-    string favoriteSong = "Clint_Eastwood";
+    string favoriteSong = "Clint Eastwood";
 
     int birthYear = 1988;
 
