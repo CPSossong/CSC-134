@@ -3,7 +3,7 @@ using namespace std;
 
 int main()
 {
-    const double SALES_TAX_RATE = 0.07;
+    const double SALES_TAX_RATE = 0.0475;
 
     double milesPerGallon;
 
